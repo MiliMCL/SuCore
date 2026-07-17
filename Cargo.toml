@@ -137,7 +137,7 @@ bevy_log = { version = "0.14.2" }
 bevy_mod_debugdump = { version = "0.11.1" }
 bevy_utils = { version = "0.14.2" }
 bevy_time = { version = "0.14.2", default-features = false }
-bitfield-struct = "0.8.0"
+bitfield-struct = "0.13.0"
 bitvec = "1.0.1"
 byteorder = "1.5.0"
 bytes = "1.7.1"
