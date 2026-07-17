@@ -144,7 +144,7 @@ bytes = "1.7.1"
 cesu8 = "1.1.0"
 cfb8 = "0.8.1"
 clap = { version = "4.5.17", features = ["derive"] }
-derive_more = "1.0.0"
+derive_more = "2.1.1"
 directories = "5.0.1"
 divan = "0.1.14"
 eframe = { version = "0.28.1" }
